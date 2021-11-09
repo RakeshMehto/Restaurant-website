@@ -29,5 +29,5 @@ We take inspiration from the World's best cuisines, and create a unique fusion e
 
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1b4HhoTzMHc_RTchzpuvIVy-bgwI_VLR5/view?usp=sharing)
+![App Screenshot](https://github.com/RakeshMehto/Restaurant-website/blob/main/img/Screenshot%20(169).png)
 
